@@ -32,7 +32,7 @@ FPDF library (for PDF generation)
 project-folder/
 │
 ├── data.csv
-├── student_report.py
+├── report_generator.py
 ├── student_report.pdf
 └── README.md
 
