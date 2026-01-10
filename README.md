@@ -7,14 +7,14 @@ This project reads student data from a CSV file, analyzes their performance, and
 Reads student names and marks from a CSV file
 
 Calculates:
-
-			Total number of students
-			
-			Average marks
+	
+				Total number of students
 				
-			Highest marks
-			
-			Lowest marks
+				Average marks
+					
+				Highest marks
+				
+				Lowest marks
 
 Generates a well-formatted PDF report
 
