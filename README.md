@@ -110,3 +110,8 @@ Internship tasks
 Mini projects for resumes
 
 Academic performance reports
+
+## OUTPUT
+
+<img width="667" height="815" alt="image" src="https://github.com/user-attachments/assets/f27870de-16a3-432f-9217-4fb9c90fbdb9" />
+
